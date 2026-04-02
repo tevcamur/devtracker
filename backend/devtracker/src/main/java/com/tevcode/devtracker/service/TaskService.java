@@ -1,11 +1,8 @@
 package com.tevcode.devtracker.service;
 
-
-
 import com.tevcode.devtracker.model.Task;
 import com.tevcode.devtracker.repository.TaskRepository;
 import org.springframework.stereotype.Service;
-
 import java.time.LocalDateTime;
 import java.util.List;
 

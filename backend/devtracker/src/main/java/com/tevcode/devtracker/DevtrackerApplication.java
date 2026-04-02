@@ -11,5 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DevtrackerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DevtrackerApplication.class, args);}
+		SpringApplication.run(DevtrackerApplication.class, args);
+		System.out.println("🚀 DevTracker backend is running!");
+	}
 }
