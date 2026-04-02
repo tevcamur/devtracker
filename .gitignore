@@ -1,0 +1,18 @@
+# safety net (frontend)
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+
+# safety net (backend)
+backend/**/target/
+
+# global IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# env
+.env
